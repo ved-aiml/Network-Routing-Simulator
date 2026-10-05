@@ -1,6 +1,6 @@
 # Network Routing Simulator
 
-A simple C++ based network routing simulator that models routers as a weighted graph and uses **Dijkstra's algorithm** to find the shortest route between routers.
+A C++ based network routing simulator that models routers as a weighted graph and uses **Dijkstra's algorithm** to find the shortest route between routers.
 
 ## Features
 
